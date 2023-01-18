@@ -12,16 +12,15 @@ Game begins and player will play aginst the PC or BOT where each move will be di
 
 HERE Is The Example:--
 
-// how many time user will play the game
 For how many time do you wish to play the game:  2
 Comp chosses from r,p,s, wherer: 
     
-// choose from the given option
+
     r=rock
     p=paper
     s=scissor
     
-// 
+
 Chosses from r,p,s Now go ==>  r 
 Comp chos: r
 you chos: r
@@ -29,12 +28,12 @@ you chos: r
 it's a tie
 Comp chosses from r,p,s, wherer:
 
-//
+
     r=rock
     p=paper
     s=scissor
 
-//
+
 Chosses from r,p,s Now go ==>  s
 Comp chos: p
 you chos: s
