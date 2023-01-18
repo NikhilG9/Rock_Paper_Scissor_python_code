@@ -1,9 +1,9 @@
 # Rock_Paper_Scissor_code
 Code is in python language, Here is a code for rock paper scissor which we play.
 
-Rock bits Scissor
-Scissor bits Paper
-Paper bits Rock
+Rock bits Scissor:
+Scissor bits Paper:
+Paper bits Rock:
 
 First player will tell how many times he/she wants to play the game:
 
